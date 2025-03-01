@@ -15,11 +15,11 @@ h1, h2, h3 {
 
 p, a, li, button {
     font-family: 'Lato', sans-serif;
+    color: black;
 }
-
-/* body {
-    font-family: Arial, sans-serif,  'Roboto';
-} */
+a{
+    text-decoration:none;
+}
 .header {
     display: flex;
     justify-content: space-between;
