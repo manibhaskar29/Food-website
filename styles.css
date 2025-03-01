@@ -18,7 +18,8 @@ p, a, li, button {
     color: black;
 }
 a{
-    text-decoration:none;
+    text-decoration: none;
+    font-style: none;
 }
 .header {
     display: flex;
